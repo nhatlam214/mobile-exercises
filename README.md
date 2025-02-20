@@ -11,3 +11,7 @@ Video demo: [MiCard Demo](https://drive.google.com/file/d/1zM35N9fZkWaCZNZKsfmB0
 ## Lab 3: Dicee (my-dicee)
 
 Video demo: [Dicee Demo](https://drive.google.com/file/d/1IEX0acpWxpxvY-XLDG0u7Us5nwrEeC_A/view?usp=sharing)
+
+## Lab 4: Magic 8 Ball (Magic8Ball)
+
+Video demo: [Magic 8 Ball Demo](https://drive.google.com/file/d/16-GiyREOupKi9vnYN3iaH1-pWWi6uPJB/view?usp=drive_link)
