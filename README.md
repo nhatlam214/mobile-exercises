@@ -7,3 +7,7 @@ Video demo: [Iam Rich Demo](https://drive.google.com/file/d/1WeaMe6-5U_1aZVhoGT2
 ## Lab 2: MiCard (mi-card)
 
 Video demo: [MiCard Demo](https://drive.google.com/file/d/1zM35N9fZkWaCZNZKsfmB0tuQK1jjSh1s/view?usp=drive_link)
+
+## Lab 3: Dicee (my-dicee)
+
+Video demo: [Dicee Demo](https://drive.google.com/file/d/1IEX0acpWxpxvY-XLDG0u7Us5nwrEeC_A/view?usp=sharing)
