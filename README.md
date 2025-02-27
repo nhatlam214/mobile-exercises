@@ -15,3 +15,8 @@ Video demo: [Dicee Demo](https://drive.google.com/file/d/1IEX0acpWxpxvY-XLDG0u7U
 ## Lab 4: Magic 8 Ball (Magic8Ball)
 
 Video demo: [Magic 8 Ball Demo](https://drive.google.com/file/d/16-GiyREOupKi9vnYN3iaH1-pWWi6uPJB/view?usp=drive_link)
+
+## Lab 5: Xylophone (XylophoneApp)
+
+Video demo: [Xylophone Demo](https://drive.google.com/file/d/1I2ANtVI2EYLWV5UHMYJNtNkS7xxnSmxW/view?usp=drive_link)
+
