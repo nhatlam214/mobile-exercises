@@ -20,3 +20,6 @@ Video demo: [Magic 8 Ball Demo](https://drive.google.com/file/d/16-GiyREOupKi9vn
 
 Video demo: [Xylophone Demo](https://drive.google.com/file/d/1I2ANtVI2EYLWV5UHMYJNtNkS7xxnSmxW/view?usp=drive_link)
 
+## Midterm Project: CRUD App Using Firebase (expo-product-app)
+
+Video demo: [CRUD App Demo](https://drive.google.com/file/d/1hSOt7SrXHS9rCa_v8pJta642wxx8lALU/view?usp=sharing)
