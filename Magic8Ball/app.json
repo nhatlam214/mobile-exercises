@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "Magic8Ball",
+    "slug": "Magic8Ball"
+  }
+}
