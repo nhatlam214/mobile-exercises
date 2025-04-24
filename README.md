@@ -35,3 +35,7 @@ Video demo: [BMI Calculator Demo](https://drive.google.com/file/d/1J8AjTr5-Q7ie_
 ## Lab 9: Clima - Powering Your ReactNativeApp with Live Web Data (Clima)
 
 Video demo: [Clima Demo](https://drive.google.com/file/d/1i4NQUmHjCheDtAT47dpyIXqnwcK0vrzY/view?usp=sharing)
+
+### Mid-term: CRUD App (expo-product-app)
+
+Video demo: [Mid-term Demo](https://drive.google.com/file/d/1qLtyK-wGUv0jz_2ps0M349U55vyptyMb/view?usp=sharing)
